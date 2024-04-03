@@ -1,0 +1,32 @@
+[
+  {
+    "id": 456,
+    "brand": "Honda",
+    "model": "Accord",
+    "registration": "2686",
+    "color": "Khaki",
+    "year": 2000,
+    "max_speed": "89",
+    "passengers": 5,
+    "fuel_type": "biodiesel",
+    "transmission": "semi-automatic",
+    "height": 297.69,
+    "width": 107.39,
+    "weight": 98.93
+  },
+  {
+    "id": 461,
+    "brand": "Honda",
+    "model": "Prelude",
+    "registration": "15",
+    "color": "Fuscia",
+    "year": 1998,
+    "max_speed": "232",
+    "passengers": 4,
+    "fuel_type": "gas",
+    "transmission": "semi-automatic",
+    "height": 269.34,
+    "width": 41.93,
+    "weight": 297.5
+  }
+]
